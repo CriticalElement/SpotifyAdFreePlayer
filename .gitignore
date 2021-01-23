@@ -1,3 +1,6 @@
 __pycache__
 debug.log
 .idea
+adfreeplayer.spec
+build
+dist
